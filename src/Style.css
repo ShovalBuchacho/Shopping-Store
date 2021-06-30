@@ -1,0 +1,126 @@
+/* App */
+body{
+  background-color: rgb(251, 255, 235);
+}
+#header {
+  text-align: center;
+  min-width: 700px;
+  
+}
+.nav {
+  display: inline;
+  
+}
+
+#logo{
+  padding: 50px;  
+  margin-right: 55px;
+  position: relative;
+  top: 10px;
+  height: 250px;
+  width: 250px;
+
+}
+#home_icon {  
+  padding: 5px;  
+  margin-right: 55px;
+  position: relative;
+  top: 10px;
+  width: 55px;
+  cursor: pointer;
+  
+}
+#cart_icon {    
+  padding: 5px;  
+  margin-left: 55px;
+  width: 55px;
+  position: relative;
+  top: 10px;
+  cursor: pointer;
+}
+
+#productsNum {
+  font-size: 30px;
+  font-weight: bold;  
+  right: 48px;
+  bottom: 48px;  
+}
+
+#Products {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 650px;
+  min-height: 400px;
+  margin-bottom: 10px;  
+  border-style: groove;
+}
+.items{
+  border-style: groove;
+}
+
+
+/* Home Page */
+input {
+  width: 30%;
+  min-width: 150px;
+  height: 35px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+.add {
+  font-size: 25px;
+  margin-left: 20px;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+.add:hover {
+  background-color: rgb(224, 227, 250);
+}
+
+h2 {
+  font-size: 30px;
+}
+
+/* Cart page*/
+#total {
+  text-align: center;
+  font-size: 26px;
+  margin-top: 20px;
+}
+#buy_btn { 
+  margin-bottom: 10px;;
+  font-size: 30px;  
+  cursor: pointer;
+  display: flex;  
+  margin-left: 42%;
+
+}
+#buy_btn:hover {
+  background-color: rgb(188, 208, 245);
+}
+.items {
+  width: 80%;
+  min-width: 620px;
+  height: 80px;
+}
+.Columns {
+  display: inline-block;
+  margin-left: 5%;
+  width: 35%;
+  min-width: 250px;
+}
+h3 {
+  font-size: 20px;
+  margin-left: 3%;
+}
+#deletBTN {
+  margin-top: 20px;
+  width: 60px;
+  cursor: pointer;
+  border: 4px outset rgb(118, 118, 118);
+}
+#deletBTN:hover {
+  background-color: lightsteelblue;
+}

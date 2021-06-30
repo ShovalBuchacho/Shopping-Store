@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shoping-Store/static/css/main.60a903dc.chunk.css",
+    "main.js": "/Shoping-Store/static/js/main.9f2f1873.chunk.js",
+    "main.js.map": "/Shoping-Store/static/js/main.9f2f1873.chunk.js.map",
+    "runtime-main.js": "/Shoping-Store/static/js/runtime-main.3a27cc68.js",
+    "runtime-main.js.map": "/Shoping-Store/static/js/runtime-main.3a27cc68.js.map",
+    "static/js/2.0fd3d11c.chunk.js": "/Shoping-Store/static/js/2.0fd3d11c.chunk.js",
+    "static/js/2.0fd3d11c.chunk.js.map": "/Shoping-Store/static/js/2.0fd3d11c.chunk.js.map",
+    "index.html": "/Shoping-Store/index.html",
+    "static/css/main.60a903dc.chunk.css.map": "/Shoping-Store/static/css/main.60a903dc.chunk.css.map",
+    "static/js/2.0fd3d11c.chunk.js.LICENSE.txt": "/Shoping-Store/static/js/2.0fd3d11c.chunk.js.LICENSE.txt",
+    "static/media/empty-cart-png.0905b303.png": "/Shoping-Store/static/media/empty-cart-png.0905b303.png",
+    "static/media/shopping_cart.d1d4ef98.png": "/Shoping-Store/static/media/shopping_cart.d1d4ef98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a27cc68.js",
+    "static/js/2.0fd3d11c.chunk.js",
+    "static/css/main.60a903dc.chunk.css",
+    "static/js/main.9f2f1873.chunk.js"
+  ]
+}
